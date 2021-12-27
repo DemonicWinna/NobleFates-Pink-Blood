@@ -1,0 +1,9 @@
+{
+	id Oct.Debris.Types.Blood
+	type DebrisType
+	inherit Oct.Debris.Generic
+	
+	name = Blood
+	color = color(#be2596)
+	offset = 0
+}
